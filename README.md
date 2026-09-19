@@ -71,7 +71,7 @@ A matriz de empréstimos relaciona livros e utilizadores. Cada posição represe
 ## Estrutura do projeto
 
 ```text
-BibliotecaMunicipal/
+Sistema-de-Gestao-de-Biblioteca-Municipal/
 │
 ├── BibliotecaMunicipal.java
 └── README.md
